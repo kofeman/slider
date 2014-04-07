@@ -1,28 +1,7 @@
-slider
+Слайдер - карусель
 ======
 
-Для работы слайдера нужно: 
+Как подключить слайдер - https://github.com/kofeman/slider/wiki/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F
 
-1) Подключить файл стилей 
-
-<link rel="stylesheet" href="slider.css"/>
-
-2) Подключить js файл перед закрывающим тегом </body>
-
-<script src="css3slider.js"></script>
-
-3) Создать разметку для слайдов следующим образом. Каждый <div> внутри .slides это отдельный слайд
-
-<div class="slider">
-    <div class="slides">
-        <div><img src="http://lorempixel.com/g/400/200/sports" alt=""/></div>
-        <div><img src="http://lorempixel.com/400/200/" alt=""/></div>
-        <div><p>hello there</p></div>
-    </div>
-</div>
-
-4) По желанию редактировать css файл для изменения стилей слайдера
-
-
-
+Слайдер работает на основе css-хака с радио-баттонами и атрибутом checked. Инпуты и лейблы добавляются динамически с помощью js
 
