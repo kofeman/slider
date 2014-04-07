@@ -5,7 +5,7 @@
 
 Демо - http://kofeman.github.io/slider
 
-Инструкция ак подключить слайдер - https://github.com/kofeman/slider/wiki/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F
-
 Слайдер работает на основе css-хака с радио-баттонами и атрибутом checked. Инпуты и лейблы добавляются динамически с помощью js
+
+Инструкция как подключить слайдер - https://github.com/kofeman/slider/wiki/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F
 
